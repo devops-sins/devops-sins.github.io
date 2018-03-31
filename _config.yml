@@ -5,7 +5,7 @@ encoding: utf-8
 lsi: true
 profiler: true
 strict_front_matter: true
-title: [github for DevOps Sins]
+title: [DevOps Sins, a place to openly admit that should never have worked]
 description: [A Playground to share stories and duct tape from digital veterans]
 show_downloads: true
 google_analytics: UA-21007258-4
