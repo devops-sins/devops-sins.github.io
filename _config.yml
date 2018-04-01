@@ -5,7 +5,7 @@ encoding: utf-8
 lsi: true
 profiler: true
 strict_front_matter: true
-title: [DevOps Sins - A place to openly admit - That, should definitely never have worked]
+title: [DevOps Sins - A place to openly admit - That should definitely never have worked]
 description: [A Playground to share stories and duct tape from digital veterans]
 show_downloads: true
 google_analytics: UA-21007258-4
