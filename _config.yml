@@ -9,3 +9,13 @@ title: [DevOps Sins - A place to openly admit - That should definitely never hav
 description: [A Playground to share stories and duct tape from digital veterans]
 show_downloads: true
 google_analytics: UA-21007258-4
+plugins:
+  - jekyll_remote_include
+  - jekyll-feed
+  - jekyll-redirect-from
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  - jekyll-avatar
+  - jemoji
+  - jekyll-mentions
+  - jekyll-include-cache
