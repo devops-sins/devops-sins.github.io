@@ -1,21 +1,16 @@
-theme: jekyll-theme-slate
+title: [DevOps Sins - A place to openly admit - That should definitely never have worked]
+email: devops@guihack.com
+#theme: jekyll-theme-slate
 #remote_theme:
 timezone: Etc/UTC
 encoding: utf-8
 lsi: true
 profiler: true
 strict_front_matter: true
-title: [DevOps Sins - A place to openly admit - That should definitely never have worked]
 description: [A Playground to share stories and duct tape from digital veterans]
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
+twitter_username: castorsd
+github_username:  alathers
 show_downloads: true
 google_analytics: UA-21007258-4
-plugins:
-  - jekyll_remote_include
-  - jekyll-feed
-  - jekyll-redirect-from
-  - jekyll-seo-tag
-  - jekyll-sitemap
-  - jekyll-avatar
-  - jemoji
-  - jekyll-mentions
-  - jekyll-include-cache
